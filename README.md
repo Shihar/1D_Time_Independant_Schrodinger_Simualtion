@@ -10,4 +10,5 @@ There are two numerical methods employed to plot the behaviour of the particle.
 The codes are written in MATLAB and a report describing the impelementation and results are attached as well. 
 
 
-![plot](https://github.com/Shihar/1D_Time_Independant_Schrodinger_Simualtion/blob/master/n_KE.jpg?raw=true)
+![n1_KE](https://user-images.githubusercontent.com/37256537/120151409-d8a33180-c209-11eb-98ca-74014483e3e4.jpg)
+Above plot is the representation of Kronig Penny Model Simulation result from Eigen Method. 
