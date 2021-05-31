@@ -11,4 +11,5 @@ The codes are written in MATLAB and a report describing the impelementation and 
 
 
 ![n1_KE](https://user-images.githubusercontent.com/37256537/120151409-d8a33180-c209-11eb-98ca-74014483e3e4.jpg)
+
 Above plot is the representation of Kronig Penny Model Simulation result from Eigen Method. 
