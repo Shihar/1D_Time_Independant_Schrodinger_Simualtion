@@ -8,3 +8,6 @@ There are two numerical methods employed to plot the behaviour of the particle.
 2. Shooting Method - This is used to solve symmetrical potential functions where boundary value is known. 
 
 The codes are written in MATLAB and a report describing the impelementation and results are attached as well. 
+
+
+![alt text](https://github.com/Shihar/1D_Time_Independant_Schrodinger_Simualtion/blob/[master]/n_KE.jpg?raw=true)
