@@ -10,4 +10,4 @@ There are two numerical methods employed to plot the behaviour of the particle.
 The codes are written in MATLAB and a report describing the impelementation and results are attached as well. 
 
 
-(https://github.com/Shihar/1D_Time_Independant_Schrodinger_Simualtion/blob/master/n_KE.jpg?raw=true)
+![plot](https://github.com/Shihar/1D_Time_Independant_Schrodinger_Simualtion/blob/master/n_KE.jpg?raw=true)
